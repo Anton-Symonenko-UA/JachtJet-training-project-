@@ -123,6 +123,16 @@ body {
   border-color: var(--color-accent);
 }
 
+.icon {
+  fill: currentColor;
+  color: #055545;
+}
+
+.footer-icon {
+  fill: currentColor;
+  color: #fbfbfb;
+}
+
 .header {
   position: absolute;
   top: 32px;
